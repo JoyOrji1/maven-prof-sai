@@ -1,6 +1,7 @@
 <html>
 <body>
-<h1>Welcome To IntelliQ IT</h1>
+<h1>Welcome To JovizTechnology</h1>
+ <h2>The best technology company in the world</h2>
 </body>
 <body style="color:red;">
  <div class="container">
